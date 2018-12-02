@@ -1,0 +1,23 @@
+body {
+    font-size: 100%;
+}
+
+.App {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.Header {
+    font-family: "Roboto";
+    height: 200px;
+}
+
+.Main {
+    flex: 1 0 auto;
+}
+
+.Footer {
+    height: 40px;
+}

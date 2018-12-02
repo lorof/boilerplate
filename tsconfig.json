@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "allowJs": true,
+    "strict": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "isolatedModules": true,
+    "target": "es5",
+    "jsx": "react"
+  },
+  "include": ["src"]
+}
